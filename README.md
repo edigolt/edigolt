@@ -65,7 +65,6 @@ const me: André = {
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF)
 ![Claude](https://img.shields.io/badge/Claude-141414?style=for-the-badge&logo=claude&logoColor=FF00E4)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=0D1117)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=BC13FE)
 
 </div>
