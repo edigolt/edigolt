@@ -34,20 +34,7 @@ Sou **André Luis M. Carvalhais**, estudante de **Engenharia de Software** na **
 🚀 Atualmente estou **em busca de uma oportunidade profissional**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e continuar crescendo como desenvolvedor.
 
 ```typescript
-type Developer = {
-  name: string;
-  role: string;
-  education: string;
-  location: string;
-  skills: {
-    intermediate: string[];
-    basic: string[];
-  };
-  focus: string;
-  status: string;
-};
-
-const me: Developer = {
+const me: André = {
   name: "André Luis M. Carvalhais",
   role: "Software Engineering Student",
   education: "Engenharia de Software - PUCPR",
@@ -61,7 +48,6 @@ const me: Developer = {
 };
 ```
 
-## ⚡ Stack atual
 
 <div align="center">
 
@@ -75,8 +61,6 @@ const me: Developer = {
 
 </div>
 
-## 🖥️ Digital Workstation
-
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF)
@@ -85,8 +69,6 @@ const me: Developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=BC13FE)
 
 </div>
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -110,8 +92,6 @@ const me: Developer = {
 <img width="100%" src="https://raw.githubusercontent.com/edigolt/edigolt/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
 
 </div>
-
-## 🐍 Snake das contribuições
 
 <div align="center">
 
