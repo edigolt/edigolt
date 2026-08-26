@@ -1,5 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/31486328/README.2.md)
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:24243e,50:302b63,75:0f0c29,100:00050d&height=260&section=header&text=Andr%C3%A9%20Luis%20M.%20Carvalhais&fontSize=42&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Futuro%20Dev&descAlignY=58&descSize=18&descColor=FF00E4" alt="Banner" />
