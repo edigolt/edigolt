@@ -1,0 +1,37 @@
+name: Generate 3D Contribution Profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v5
+
+      - name: Gerar gráfico 3D de contribuições
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Configurar Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Adicionar alterações
+        run: git add ./profile-3d-contrib
+
+      - name: Commit (somente se houver alterações)
+        run: |
+          git diff --cached --quiet && echo "Nenhuma alteração para commitar" || git commit -m "chore: atualiza gráfico 3D de contribuições"
+
+      - name: Push das alterações
+        run: git push
