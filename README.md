@@ -71,8 +71,7 @@ const me: André = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=edigolt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edigolt&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" alt="Linguagens mais usadas" />
+
 
 <br>
 
