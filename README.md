@@ -71,8 +71,6 @@ const me: André = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=edigolt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edigolt&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" alt="Linguagens mais usadas" />
 
 <br>
 
@@ -80,25 +78,11 @@ const me: André = {
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=edigolt&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00E4&point=BC13FE" alt="Gráfico de atividade" />
+
 
 </div>
 
-## 🧊 Contribuições em 3D
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/edigolt/edigolt/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edigolt/edigolt/output/github-contribution-grid-snake-dark.svg" />
-  
-
-</div>
 
 ## 🎯 Objetivo
 
